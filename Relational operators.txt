@@ -1,0 +1,12 @@
+Relational operators
+A = 10
+B = 20
+
+==    A == B false
+!=    A != B true
+>     A >  B false
+<     A <  B true
+>=    A >= B false
+<=    A <= B true
+
+
